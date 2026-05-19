@@ -182,3 +182,7 @@ load_binary()
     │                                                                    │
     └─ write_svg() → .svg file per image ───────────────────────────────┘
 ```
+
+
+## Thanks
+https://github.com/syaltamimi/image-to-vector
