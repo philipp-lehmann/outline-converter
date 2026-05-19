@@ -1,7 +1,7 @@
 # outline-converter
 
 
-![Conversion example](docs/conversion-example.png.jpg?raw=true "Outline conversion")
+![Conversion example](docs/conversion-example.png.jpg "Outline conversion")
 Convert JPG/PNG raster images to clean, stroke-based SVG outlines.
 Designed for icon sets — stroke widths are measured and normalised globally
 across an entire batch so every icon in a run uses the same thin/thick mapping.
